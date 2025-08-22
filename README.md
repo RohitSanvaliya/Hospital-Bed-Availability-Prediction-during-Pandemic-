@@ -88,24 +88,10 @@ Using this we ran simulations 10000 times to test the hypothesis.
 
 Test-1: Before doubling the number of beds
 
-The following plot shows the simulation results depecting how beds in hospitals are occupied and how they will overflow after certain time.
-
-![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\beds-vs-days.png?raw=true "Available beds vs Days")
-
-
-The following plot shows on which day the hospitals are most probable of getting overflow.
-
-![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\overflow-days-hist.png?raw=true "Day on which the hospitals overflow")
-
 Test-2: After Doubling the number of beds
-
-
-The following plot shows the number of available beds once they are doubled
-
-![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\After\beds-vs-days.png?raw=true "Available beds vs Days")
-
 
 The following plot gives the available number of vacant beds in the hospitals
 
 ![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\After\percent_vacant_beds-hist.png?raw=true "Percent Vacant Beds")
+
 
