@@ -1,9 +1,4 @@
-#  Final Project PR Spring 2020 
-
-##  Monte Carlo Simulation on Hospital Capacity during COVID-19
-
-
-## Team Members- Rohit Sanvaliya, Tanya Gupta, Varad Deshpande
+##  Monte Carlo Simulation on Hospital Bed Availability Prediction during Pandemic
 
 ### The need for this project from the perspective of hospitals
 
@@ -113,3 +108,4 @@ The following plot shows the number of available beds once they are doubled
 The following plot gives the available number of vacant beds in the hospitals
 
 ![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\After\percent_vacant_beds-hist.png?raw=true "Percent Vacant Beds")
+
