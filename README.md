@@ -90,8 +90,6 @@ Test-1: Before doubling the number of beds
 
 Test-2: After Doubling the number of beds
 
-The following plot gives the available number of vacant beds in the hospitals
 
-![Alt text](C:\Users\clustervarad\Desktop\Sem II\IS590 PR\Final Project\Plots\Hypothesis -1 Plots\After\percent_vacant_beds-hist.png?raw=true "Percent Vacant Beds")
 
 
