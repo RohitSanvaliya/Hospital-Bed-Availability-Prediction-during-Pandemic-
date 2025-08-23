@@ -1,13 +1,7 @@
 
 """
-IS 590 PR - Final Project
-
 Monte Carlo Simulation on Hospital Capacity During COVID-19
 
-Team members:
-                        Varad Deshpande
-                        Rohit Sanvaliya
-                        Tanya Gupta
 Note:
     The ranges of all randomised variables have been taken from real data from various
     sourses that are cited withing the code as well as in the README document of github
@@ -370,3 +364,4 @@ if __name__ == '__main__':
     plt.title("Available Number of Beds")
     plt.savefig('beds-vs-days.png')
     plt.clf()
+
